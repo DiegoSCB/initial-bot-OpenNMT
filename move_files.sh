@@ -1,8 +1,8 @@
 #!/bin/bash
 
-cp fix_encoding.sh ../data/.
-cp pull_data.sh ../data/.
+cp fix_encoding.sh /workspace/data/.
+cp pull_data.sh /workspace/data/.
 
-cp preprocess.sh ../OpenNMT-py/.
-cp train.sh ../OpenNMT-py/.
-cp infer.sh ../OpenNMT-py/.
+cp preprocess.sh /workspace/OpenNMT-py/.
+cp train.sh /workspace/OpenNMT-py/.
+cp infer.sh /workspace/OpenNMT-py/.
