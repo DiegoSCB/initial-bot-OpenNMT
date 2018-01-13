@@ -120,7 +120,7 @@ Now, you have to wait. No rush here.
 
 After this, the predictions are at `data/preds.txt`
 
-
+Special thanks to Óscar Araque.
 
 ---
 
